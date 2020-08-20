@@ -1,0 +1,17 @@
+# Passenger Ahmet
+* "1" saniye bekle
+* "frAddNewPassenger_etAddName" Ad bilgisi "Ahmet" dir.
+* "1" saniye bekle
+* "frAddNewPassenger_etAddLastName" Soyad bilgisi "Hakan" dir..
+* "1" saniye bekle
+* "//*[@text='Bay']" Cinsiyet gir.
+* "1" saniye bekle
+* "frAddNewPassenger_etAddDateOfBirth" Dogum tarihi bilgisi "11-07-1985" dir.
+* "1" saniye bekle
+* "frAddNewPassenger_etAddEmail" Email bilgisi "hakan@gmail.com" dir.
+* "1" saniye bekle
+* "//*[@text='T.C.']" T.C. sec.
+*"1" saniye bekle
+*"frAddNewPassenger_etAddTCKN" T.C. bilgisi "39490855036" dir.
+*"1" saniye bekle
+*"frAddNewPassenger_btnAddPassenger" Kaydet butonuna tikla.

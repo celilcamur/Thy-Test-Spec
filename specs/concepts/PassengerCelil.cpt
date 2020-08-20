@@ -1,0 +1,17 @@
+# Passenger Celil
+* "1" saniye bekle
+* "frAddNewPassenger_etAddName" Ad bilgisi "Celil" dir.
+* "1" saniye bekle
+* "frAddNewPassenger_etAddLastName" Soyad bilgisi "Çamur" dir..
+* "1" saniye bekle
+* "//*[@text='Bay']" Cinsiyet gir.
+* "1" saniye bekle
+* "frAddNewPassenger_etAddDateOfBirth" Dogum tarihi bilgisi "18-04-1998" dir.
+* "1" saniye bekle
+* "frAddNewPassenger_etAddEmail" Email bilgisi "celil@gmail.com" dir.
+* "1" saniye bekle
+* "//*[@text='T.C.']" T.C. sec.
+*"1" saniye bekle
+*"frAddNewPassenger_etAddTCKN" T.C. bilgisi "39475855556" dir.
+*"1" saniye bekle
+*"frAddNewPassenger_btnAddPassenger" Kaydet butonuna tikla.

@@ -1,0 +1,167 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (org.reflections.Reflections).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 1890milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1890"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 65041"}
+{"logLevel":"info","message":"Listening on port:65041"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.selectGender' and 'com.testinium.thy.StepImplementation.selectGender'"}
+{"logLevel":"debug","message":"Found {} cinsiyet gir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.btnPassengerContinue' and 'com.testinium.thy.StepImplementation.btnPassengerContinue'"}
+{"logLevel":"debug","message":"Found {} passenger sayfasinda continue butonuna tikla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.SelectDateView' and 'com.testinium.thy.StepImplementation.SelectDateView'"}
+{"logLevel":"debug","message":"Found {} tarih alanina tikla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.increaseAdult' and 'com.testinium.thy.StepImplementation.increaseAdult'"}
+{"logLevel":"debug","message":"Found {} adult degerini bir arttir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.selectFlight' and 'com.testinium.thy.StepImplementation.selectFlight'"}
+{"logLevel":"debug","message":"Found {} ucus sec. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.inputName' and 'com.testinium.thy.StepImplementation.inputName'"}
+{"logLevel":"debug","message":"Found {} ad gir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.selectDate' and 'com.testinium.thy.StepImplementation.selectDate'"}
+{"logLevel":"debug","message":"Found {} gun sonrayi sec. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.addPassenger' and 'com.testinium.thy.StepImplementation.addPassenger'"}
+{"logLevel":"debug","message":"Found {} yolcu ekle. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.date' and 'com.testinium.thy.StepImplementation.date'"}
+{"logLevel":"debug","message":"Found {} tarih bilgisi al. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.adult2' and 'com.testinium.thy.StepImplementation.adult2'"}
+{"logLevel":"debug","message":"Found {} 2. adult view ac. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.departureCode' and 'com.testinium.thy.StepImplementation.departureCode'"}
+{"logLevel":"debug","message":"Found {} kalkis kodu gir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.waitBySecond' and 'com.testinium.thy.StepImplementation.waitBySecond'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.ecoFlight' and 'com.testinium.thy.StepImplementation.ecoFlight'"}
+{"logLevel":"debug","message":"Found {} ekonomik ucus sec. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.toAirport' and 'com.testinium.thy.StepImplementation.toAirport'"}
+{"logLevel":"debug","message":"Found {} varis havalimani tikla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.selectDepartureAirport' and 'com.testinium.thy.StepImplementation.selectDepartureAirport'"}
+{"logLevel":"debug","message":"Found {} havalimani sec. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.inputSurname' and 'com.testinium.thy.StepImplementation.inputSurname'"}
+{"logLevel":"debug","message":"Found {} soyad gir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.tckNo' and 'com.testinium.thy.StepImplementation.tckNo'"}
+{"logLevel":"debug","message":"Found {} tckNo gir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.birthDate' and 'com.testinium.thy.StepImplementation.birthDate'"}
+{"logLevel":"debug","message":"Found {} dogum tarihi gir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.acceptCookie' and 'com.testinium.thy.StepImplementation.acceptCookie'"}
+{"logLevel":"debug","message":"Found {} cookie kabul et. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.Nationality' and 'com.testinium.thy.StepImplementation.Nationality'"}
+{"logLevel":"debug","message":"Found {} uyruk sec. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.toAirportCode' and 'com.testinium.thy.StepImplementation.toAirportCode'"}
+{"logLevel":"debug","message":"Found {} varis havalimani kodu gir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.tekYonUcus' and 'com.testinium.thy.StepImplementation.tekYonUcus'"}
+{"logLevel":"debug","message":"Found {} tek yon tikla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.btnContinue' and 'com.testinium.thy.StepImplementation.btnContinue'"}
+{"logLevel":"debug","message":"Found {} Continue butonuna tikla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.emailAdress' and 'com.testinium.thy.StepImplementation.emailAdress'"}
+{"logLevel":"debug","message":"Found {} email gir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.getTicket' and 'com.testinium.thy.StepImplementation.getTicket'"}
+{"logLevel":"debug","message":"Found {} Book a flight tikla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.btnDone' and 'com.testinium.thy.StepImplementation.btnDone'"}
+{"logLevel":"debug","message":"Found {} done butonuna tikla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.searchFlight' and 'com.testinium.thy.StepImplementation.searchFlight'"}
+{"logLevel":"debug","message":"Found {} ucus arama butonuna tikla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.selectDeparture' and 'com.testinium.thy.StepImplementation.selectDeparture'"}
+{"logLevel":"debug","message":"Found {} kalkis havalimani tikla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.btnCancelContinue' and 'com.testinium.thy.StepImplementation.btnCancelContinue'"}
+{"logLevel":"debug","message":"Found {} cancel sayfasinda continue butonuna tikla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.btnCancel' and 'com.testinium.thy.StepImplementation.btnCancel'"}
+{"logLevel":"debug","message":"Found {} hes sayfasinda cancel butonuna tikla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.btnSave' and 'com.testinium.thy.StepImplementation.btnSave'"}
+{"logLevel":"debug","message":"Found {} save butonuna tikla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.addPassenger2' and 'com.testinium.thy.StepImplementation.addPassenger2'"}
+{"logLevel":"debug","message":"Found {} 2. yolcu ekle. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.thy.StepImplementation.toAirportSelect' and 'com.testinium.thy.StepImplementation.toAirportSelect'"}
+{"logLevel":"debug","message":"Found {} varis havalimani sec. in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t{} varis havalimani kodu gir. : public void toAirportCode(String id) throws Exception"}
+{"logLevel":"debug","message":"\t{} cinsiyet gir. : public void selectGender(String xpath)"}
+{"logLevel":"debug","message":"\t{} email gir. : public void emailAdress(String id)"}
+{"logLevel":"debug","message":"\t{} soyad gir. : public void inputSurname(String id)"}
+{"logLevel":"debug","message":"\t{} uyruk sec. : public void Nationality(String xpath)"}
+{"logLevel":"debug","message":"\t{} gun sonrayi sec. : public void selectDate(ınt day)"}
+{"logLevel":"debug","message":"\t{} ucus sec. : public void selectFlight(String xpath)"}
+{"logLevel":"debug","message":"\t{} hes sayfasinda cancel butonuna tikla. : public void btnCancel(String id)"}
+{"logLevel":"debug","message":"\t{} ad gir. : public void inputName(String id)"}
+{"logLevel":"debug","message":"\t{} ekonomik ucus sec. : public void ecoFlight(String xpath)"}
+{"logLevel":"debug","message":"\t{} Continue butonuna tikla. : public void btnContinue(String id)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySecond(ınt second)"}
+{"logLevel":"debug","message":"\t{} tarih bilgisi al. : public void date(String id)"}
+{"logLevel":"debug","message":"\t{} kalkis kodu gir. : public void departureCode(String id)"}
+{"logLevel":"debug","message":"\t{} kalkis havalimani tikla. : public void selectDeparture(String id)"}
+{"logLevel":"debug","message":"\t{} tarih alanina tikla. : public void SelectDateView(String id)"}
+{"logLevel":"debug","message":"\t{} Book a flight tikla. : public void getTicket(String id)"}
+{"logLevel":"debug","message":"\t{} yolcu ekle. : public void addPassenger(String id)"}
+{"logLevel":"debug","message":"\t{} passenger sayfasinda continue butonuna tikla. : public void btnPassengerContinue(String id)"}
+{"logLevel":"debug","message":"\t{} varis havalimani sec. : public void toAirportSelect(String id) throws Exception"}
+{"logLevel":"debug","message":"\t{} varis havalimani tikla. : public void toAirport(String id)"}
+{"logLevel":"debug","message":"\t{} havalimani sec. : public void selectDepartureAirport(String id)"}
+{"logLevel":"debug","message":"\t{} cancel sayfasinda continue butonuna tikla. : public void btnCancelContinue(String id)"}
+{"logLevel":"debug","message":"\t{} tek yon tikla. : public void tekYonUcus(String id)"}
+{"logLevel":"debug","message":"\t{} cookie kabul et. : public void acceptCookie(String id)"}
+{"logLevel":"debug","message":"\t{} dogum tarihi gir. : public void birthDate(String id)"}
+{"logLevel":"debug","message":"\t{} ucus arama butonuna tikla. : public void searchFlight(String id)"}
+{"logLevel":"debug","message":"\t{} save butonuna tikla. : public void btnSave(String id)"}
+{"logLevel":"debug","message":"\t{} 2. adult view ac. : public void adult2(String xpath)"}
+{"logLevel":"debug","message":"\t{} done butonuna tikla : public void btnDone(String id)"}
+{"logLevel":"debug","message":"\t{} tckNo gir. : public void tckNo(String id)"}
+{"logLevel":"debug","message":"\t{} adult degerini bir arttir. : public void increaseAdult(String xpath)"}
+{"logLevel":"debug","message":"\t{} 2. yolcu ekle. : public void addPassenger2(String xpath)"}
+Ağu 20, 2020 2:28:02 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} cookie kabul et.' using 'class com.testinium.thy.StepImplementation.acceptCookie"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} Book a flight tikla.' using 'class com.testinium.thy.StepImplementation.getTicket"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} tek yon tikla.' using 'class com.testinium.thy.StepImplementation.tekYonUcus"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} kalkis havalimani tikla.' using 'class com.testinium.thy.StepImplementation.selectDeparture"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} kalkis kodu gir.' using 'class com.testinium.thy.StepImplementation.departureCode"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} havalimani sec.' using 'class com.testinium.thy.StepImplementation.selectDepartureAirport"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} varis havalimani tikla.' using 'class com.testinium.thy.StepImplementation.toAirport"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} varis havalimani kodu gir.' using 'class com.testinium.thy.StepImplementation.toAirportCode"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} varis havalimani sec.' using 'class com.testinium.thy.StepImplementation.toAirportSelect"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} tarih alanina tikla.' using 'class com.testinium.thy.StepImplementation.SelectDateView"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} gun sonrayi sec.' using 'class com.testinium.thy.StepImplementation.selectDate"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} done butonuna tikla' using 'class com.testinium.thy.StepImplementation.btnDone"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} adult degerini bir arttir.' using 'class com.testinium.thy.StepImplementation.increaseAdult"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} ucus arama butonuna tikla.' using 'class com.testinium.thy.StepImplementation.searchFlight"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} ucus sec.' using 'class com.testinium.thy.StepImplementation.selectFlight"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} ekonomik ucus sec.' using 'class com.testinium.thy.StepImplementation.ecoFlight"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} Continue butonuna tikla.' using 'class com.testinium.thy.StepImplementation.btnContinue"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} yolcu ekle.' using 'class com.testinium.thy.StepImplementation.addPassenger"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} ad gir.' using 'class com.testinium.thy.StepImplementation.inputName"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} soyad gir.' using 'class com.testinium.thy.StepImplementation.inputSurname"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} cinsiyet gir.' using 'class com.testinium.thy.StepImplementation.selectGender"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} dogum tarihi gir.' using 'class com.testinium.thy.StepImplementation.birthDate"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} email gir.' using 'class com.testinium.thy.StepImplementation.emailAdress"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} uyruk sec.' using 'class com.testinium.thy.StepImplementation.Nationality"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} tckNo gir.' using 'class com.testinium.thy.StepImplementation.tckNo"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}
+{"logLevel":"debug","message":"Executing '{} save butonuna tikla.' using 'class com.testinium.thy.StepImplementation.btnSave"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.testinium.thy.StepImplementation.waitBySecond"}

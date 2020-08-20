@@ -1,0 +1,7 @@
+# Fly Choose
+* "3" saniye bekle
+* "//androidx.recyclerview.widget.RecyclerView[@index='2']/android.view.ViewGroup[@index='0']" Ucus Zamanini sec.
+* "1" saniye bekle
+* "//androidx.recyclerview.widget.RecyclerView[@index='0']/android.view.ViewGroup[@index='0']/android.widget.FrameLayout" Ekonomik ucus sec.
+* "1" saniye bekle
+* "frFlightSearch_btnContinue" Devam butonuna tikla.

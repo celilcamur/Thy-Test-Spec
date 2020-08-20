@@ -1,0 +1,30 @@
+# Fly Search
+//* Id si "com.turkishairlines.mobile:id/frPrivacy_btnAccept" olan elemente tikla
+* "2" saniye bekle
+* "frPrivacy_btnAccept" Cerezleri kabul et.
+* "1" saniye bekle
+* "acMain_btnBooking" Bilet al a tikla.
+* "2" saniye bekle
+* "frDashboard_tvOneWay" Tek Yon Ucusa tikla.
+* "1" saniye bekle
+* "frDashboard_llFrom" Ucagin nereden kalkacagini sec.
+* "1" saniye bekle
+* "frAirportSelection_etSearch" Kalkis havalimanini ara.
+* "1" saniye bekle
+* "itemAirport_tvBottom" Havalimanini sec.
+* "1" saniye bekle
+* "frDashboard_llTo" Nereye gidecegini sec.
+* "1" saniye bekle
+* "frAirportSelection_etSearch" Gidecegin havalimanini ara.
+* "1" saniye bekle
+* "itemAirport_tvBottom" Varis Havalimani sec.
+* "1" saniye bekle
+* "frDashboard_rlDeparture" tarih alanina tikla.
+* "1" saniye bekle
+* 2 gun sonrayi sec.
+* "1" saniye bekle
+* "frDashboard_btnDone" Tamam butonuna tikla.
+* "1" saniye bekle
+* "//*[@text='2']" Yetiskin degerini bir arttir.
+* "1" saniye bekle
+* "frDashboard_btnSearch" Ucus Ara butonuna tikla.

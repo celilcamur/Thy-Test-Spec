@@ -1,0 +1,11 @@
+# Passenger Add
+* "1" saniye bekle
+* "frPickPassengerlistitemadd_tvShortName" Yolcu ekle.
+* Passenger Celil
+* "1" saniye bekle
+* "//android.widget.RelativeLayout[@index='3']" 2. Yolcuyu Sec.
+* "1" saniye bekle
+* "//android.widget.RelativeLayout[@index='4']" 2. Yolcuyu ekle.
+* Passenger Ahmet
+*"1" saniye bekle
+*"frPickPassenger_btnContinue" Yolcu sayfasinda Devam butonuna tikla.
